@@ -1,0 +1,63 @@
+{
+  "color": {
+    "base": {
+      "neutral": {
+        "main-100": { "value": "#F4F6F8" },
+        "main-200": { "value": "#EAECF0" },
+        "main-300": { "value": "#B2B6BE" },
+        "main-400": { "value": "#5E6873" },
+        "main-500": { "value": "#050E1D" },
+        "support-400": { "value": "#DCF2E5" },
+        "support-500": { "value": "#008939" },
+        "support-500": { "value": "#006731" }
+      },
+      "orange": {
+        "main-100": { "value": "#FFE6D2" },
+        "main-200": { "value": "#FFC294" },
+        "main-300": { "value": "#FF9A4E" },
+        "main-400": { "value": "#E67300" },
+        "main-500": { "value": "#C15500" },
+        "support-400": { "value": "#DFF4FF" },
+        "support-500": { "value": "#0077C8" },
+        "support-500": { "value": "#004C97" }
+      },
+      "blue": {
+        "main-100": { "value": "#DFF4FF" },
+        "main-200": { "value": "#B3E5FF" },
+        "main-300": { "value": "#78BEFD" },
+        "main-400": { "value": "#0077C8" },
+        "main-500": { "value": "#004C97" },
+        "support-400": { "value": "#DCF2E5" },
+        "support-500": { "value": "#008939" },
+        "support-500": { "value": "#006731" }
+      },
+      "green": {
+        "main-100": { "value": "#DCF2E5" },
+        "main-200": { "value": "#B8E3C9" },
+        "main-300": { "value": "#17A95D" },
+        "main-400": { "value": "#008939" },
+        "main-500": { "value": "#006731" },
+        "support-400": { "value": "#DFF4FF" },
+        "support-500": { "value": "#0077C8" },
+        "support-500": { "value": "#004C97" }
+      },
+      "white": { "value": "#FFFFFF" },
+      "black": { "value": "#050E1D" },
+      "gray-100": { "value": "#F4F6F8" },
+      "gray-200": { "value": "#EAECF0" },
+      "gray-300": { "value": "#B2B6BE" },
+      "gray-400": { "value": "#8C969F" },
+      "gray-500": { "value": "#5E6873" },
+      "alert-succes": { "value": "#008939" },
+      "alert-succes-bg": { "value": "#B8E3C9" },
+      "alert-warning": { "value": "#FFC100" },
+      "alert-warning-bg": { "value": "#FEF8D3" },
+      "alert-error": { "value": "#DA362D" },
+      "alert-error-bg": { "value": "#FFCDCA" },
+      "alert-info": { "value": "#0077C8" },
+      "alert-info-bg": { "value": "#B3E5FF" },
+      "alert-default": { "value": "#050E1D" },
+      "alert-default-bg": { "value": "#5E6873" }
+    }
+  }
+}

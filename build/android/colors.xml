@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Thu, 08 Jun 2023 15:09:27 GMT
+-->
+<resources>
+  <color name="color_base_neutral_main_100">#fff4f6f8</color>
+  <color name="color_base_neutral_main_200">#ffeaecf0</color>
+  <color name="color_base_neutral_main_300">#ffb2b6be</color>
+  <color name="color_base_neutral_main_400">#ff5e6873</color>
+  <color name="color_base_neutral_main_500">#ff050e1d</color>
+  <color name="color_base_neutral_support_400">#ffdcf2e5</color>
+  <color name="color_base_neutral_support_500">#ff006731</color>
+  <color name="color_base_orange_main_100">#ffffe6d2</color>
+  <color name="color_base_orange_main_200">#ffffc294</color>
+  <color name="color_base_orange_main_300">#ffff9a4e</color>
+  <color name="color_base_orange_main_400">#ffe67300</color>
+  <color name="color_base_orange_main_500">#ffc15500</color>
+  <color name="color_base_orange_support_400">#ffdff4ff</color>
+  <color name="color_base_orange_support_500">#ff004c97</color>
+  <color name="color_base_blue_main_100">#ffdff4ff</color>
+  <color name="color_base_blue_main_200">#ffb3e5ff</color>
+  <color name="color_base_blue_main_300">#ff78befd</color>
+  <color name="color_base_blue_main_400">#ff0077c8</color>
+  <color name="color_base_blue_main_500">#ff004c97</color>
+  <color name="color_base_blue_support_400">#ffdcf2e5</color>
+  <color name="color_base_blue_support_500">#ff006731</color>
+  <color name="color_base_green_main_100">#ffdcf2e5</color>
+  <color name="color_base_green_main_200">#ffb8e3c9</color>
+  <color name="color_base_green_main_300">#ff17a95d</color>
+  <color name="color_base_green_main_400">#ff008939</color>
+  <color name="color_base_green_main_500">#ff006731</color>
+  <color name="color_base_green_support_400">#ffdff4ff</color>
+  <color name="color_base_green_support_500">#ff004c97</color>
+  <color name="color_base_white">#ffffffff</color>
+  <color name="color_base_black">#ff050e1d</color>
+  <color name="color_base_gray_100">#fff4f6f8</color>
+  <color name="color_base_gray_200">#ffeaecf0</color>
+  <color name="color_base_gray_300">#ffb2b6be</color>
+  <color name="color_base_gray_400">#ff8c969f</color>
+  <color name="color_base_gray_500">#ff5e6873</color>
+  <color name="color_base_alert_succes">#ff008939</color>
+  <color name="color_base_alert_succes_bg">#ffb8e3c9</color>
+  <color name="color_base_alert_warning">#ffffc100</color>
+  <color name="color_base_alert_warning_bg">#fffef8d3</color>
+  <color name="color_base_alert_error">#ffda362d</color>
+  <color name="color_base_alert_error_bg">#ffffcdca</color>
+  <color name="color_base_alert_info">#ff0077c8</color>
+  <color name="color_base_alert_info_bg">#ffb3e5ff</color>
+  <color name="color_base_alert_default">#ff050e1d</color>
+  <color name="color_base_alert_default_bg">#ff5e6873</color>
+  <color name="color_font_base">#ff050e1d</color>
+  
+</resources>
