@@ -1,0 +1,22 @@
+{
+    "asset": {
+      "font": {
+        "nunito-regular": {
+          "name" : { "value": "Nunito Regular" },
+          "ttf"  : { "value": "assets/fonts/Nunito-Regular.ttf" }
+        },
+        "nunito-bold": {
+            "name" : { "value": "Nunito Regular" },
+            "ttf"  : { "value": "assets/fonts/Nunito-Bold.ttf" }
+          },
+        "sourcesanspro-regular": {
+          "name" : { "value": "Source Sans Pro Regular" },
+          "ttf"  : { "value": "assets/fonts/SourceSansPro-Regular.ttf" }
+        },
+        "sourcesanspro-semibold": {
+            "name" : { "value": "Source Sans Pro Regular" },
+            "ttf"  : { "value": "assets/fonts/SourceSansPro-SemiBold.ttf" }
+          }
+     }
+    }
+  }

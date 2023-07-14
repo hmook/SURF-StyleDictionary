@@ -1,21 +1,45 @@
 {
   "size": {
     "font": {
-      "small" : {
-        "value": "0.75",
-        "comment": "the small size of the font"
+      "head1" : {
+        "value": "2.25",
+        "comment": "H1 size of the font uses Nunito Bold"
       },
-      "medium": {
+      "head2" : {
+        "value": "1.88",
+        "comment": "H2 size of the font uses Nunito Regular"
+      },
+      "head3": {
+        "value": "1.5",
+        "comment": "H3 size of the font uses Nunito Bold"
+      },
+      "head4": {
+        "value": "1.25",
+        "comment": "H4 size of the font uses Nunito Bold"
+      },
+      "head5": {
+        "value": "1.13",
+        "comment": "H5 size of the font uses Source Sans Pro SemiBold"
+      },
+      "head6": {
         "value": "1",
-        "comment": "the medium size of the font"
+        "comment": "H6 size of the font uses Source Sans Pro SemiBold"
       },
-      "large" : {
-        "value": "2",
-        "comment": "the large size of the font"
+      "body_large": {
+        "value": "1.13",
+        "comment": "The large body font uses Source Sans Pro Regular"
+      },
+      "body": {
+        "value": "1",
+        "comment": "The body font uses Source Sans Pro Regular"
+      },
+      "body_small": {
+        "value": "0.88",
+        "comment": "The small body font uses Source Sans Pro Regular"
       },
       "base"  : {
-        "value": "{size.font.medium.value}",
-        "comment": "the base size of the font"
+        "value": "{size.font.body}",
+        "comment": "The base body font uses Source Sans Pro Regular"
       }
     }
   }
